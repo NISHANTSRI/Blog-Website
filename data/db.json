@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "new blog-1",
+      "body": "this is a new blog",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "d",
+      "body": "csd",
+      "author": "luigi",
+      "id": 9
+    },
+    {
+      "title": "nidhanr",
+      "body": "is is the new blog body this is made by the most talented person ever",
+      "author": "mario",
+      "id": 10
+    }
+  ]
+}
